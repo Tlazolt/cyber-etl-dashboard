@@ -2,7 +2,7 @@
 
 An end-to-end ETL (Extract–Transform–Load) pipeline and interactive dashboard that visualizes global cyberwarfare and cyber-espionage activity over time.  
 
-The project started as a **MTH 231 – Data Science Lecture (Fall 2025)** project and is now evolving into part of my public data science + GIS portfolio and the infrastructure for my small business, **Smoking Mirror LLC**.
+The project started as a **MTH 231 – Data Science Lecture (Fall 2025)** project and is now evolving into part of my public data science for my small business, **Smoking Mirror LLC**.
 
 ---
 
